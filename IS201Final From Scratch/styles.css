@@ -1,0 +1,48 @@
+body {
+    background: rgb(197, 161, 161);
+    font-family: 'Varela Round', sans-serif;
+  }
+  h1 {
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+
+  }
+  p {
+    color: black;
+  }
+
+header {
+  height: 125px;
+  box-sizing: border-box;
+  margin-bottom: 200px;
+}
+header div img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:250px;
+  height: 300px;
+}
+
+#aboutme {
+  text-align: center;
+}
+
+#story {
+  background-color: rgb(166, 196, 166);
+  border: 5px solid rgb(166, 196, 166);
+  border-radius: 15px 15px 15px 15px;
+ 
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(43, 149, 61)
+}
+
+#anchor {
+  background-color: rgb(215, 218, 215);
+  border: solid rgb(215, 218, 215);
+}
